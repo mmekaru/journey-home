@@ -1,0 +1,351 @@
+<smil 
+     xmlns="http://www.w3.org/ns/SMIL"
+     xmlns:epub="http://www.idpf.org/2007/ops"
+     version="3.0">
+<body>
+<par id="par1">
+<text src="page3.xhtml#W1" />
+<audio src="audio/page3.m4a" clipBegin="1.094544s" clipEnd="1.736174s" />
+</par>
+
+<par id="par2">
+<text src="page3.xhtml#W2" />
+<audio src="audio/page3.m4a" clipBegin="1.736174s" clipEnd="1.887145s" />
+</par>
+
+<par id="par3">
+<text src="page3.xhtml#W3" />
+<audio src="audio/page3.m4a" clipBegin="1.887145s" clipEnd="2.308608s" />
+</par>
+
+<par id="par4">
+<text src="page3.xhtml#W4" />
+<audio src="audio/page3.m4a" clipBegin="2.308608s" clipEnd="2.604260s" />
+</par>
+
+<par id="par5">
+<text src="page3.xhtml#W5" />
+<audio src="audio/page3.m4a" clipBegin="2.604260s" clipEnd="2.818137s" />
+</par>
+
+<par id="par6">
+<text src="page3.xhtml#W6" />
+<audio src="audio/page3.m4a" clipBegin="2.818137s" clipEnd="3.291429s" />
+</par>
+
+<par id="par7">
+<text src="page3.xhtml#W7" />
+<audio src="audio/page3.m4a" clipBegin="3.291429s" clipEnd="4.176881s" />
+</par>
+
+<par id="par8">
+<text src="page3.xhtml#W8" />
+<audio src="audio/page3.m4a" clipBegin="4.176881s" clipEnd="4.353015s" />
+</par>
+
+<par id="par9">
+<text src="page3.xhtml#W9" />
+<audio src="audio/page3.m4a" clipBegin="4.353015s" clipEnd="4.610925s" />
+</par>
+
+<par id="par10">
+<text src="page3.xhtml#W10" />
+<audio src="audio/page3.m4a" clipBegin="4.610925s" clipEnd="4.956901s" />
+</par>
+
+<par id="par11">
+<text src="page3.xhtml#W11" />
+<audio src="audio/page3.m4a" clipBegin="4.956901s" clipEnd="5.107873s" />
+</par>
+
+<par id="par12">
+<text src="page3.xhtml#W12" />
+<audio src="audio/page3.m4a" clipBegin="5.107873s" clipEnd="6.089189s" />
+</par>
+
+<par id="par13">
+<text src="page3.xhtml#W13" />
+<audio src="audio/page3.m4a" clipBegin="6.089189s" clipEnd="6.529523s" />
+</par>
+
+<par id="par14">
+<text src="page3.xhtml#W14" />
+<audio src="audio/page3.m4a" clipBegin="6.529523s" clipEnd="6.768561s" />
+</par>
+
+<par id="par15">
+<text src="page3.xhtml#W15" />
+<audio src="audio/page3.m4a" clipBegin="6.768561s" clipEnd="7.863105s" />
+</par>
+
+<par id="par16">
+<text src="page3.xhtml#W16" />
+<audio src="audio/page3.m4a" clipBegin="7.863105s" clipEnd="8.209082s" />
+</par>
+
+<par id="par17">
+<text src="page3.xhtml#W17" />
+<audio src="audio/page3.m4a" clipBegin="8.209082s" clipEnd="8.322311s" />
+</par>
+
+<par id="par18">
+<text src="page3.xhtml#W18" />
+<audio src="audio/page3.m4a" clipBegin="8.322311s" clipEnd="8.963940s" />
+</par>
+
+<par id="par19">
+<text src="page3.xhtml#W19" />
+<audio src="audio/page3.m4a" clipBegin="8.963940s" clipEnd="9.184107s" />
+</par>
+
+<par id="par20">
+<text src="page3.xhtml#W20" />
+<audio src="audio/page3.m4a" clipBegin="9.184107s" clipEnd="9.492341s" />
+</par>
+
+<par id="par21">
+<text src="page3.xhtml#W21" />
+<audio src="audio/page3.m4a" clipBegin="9.492341s" clipEnd="9.655893s" />
+</par>
+
+<par id="par22">
+<text src="page3.xhtml#W22" />
+<audio src="audio/page3.m4a" clipBegin="9.655893s" clipEnd="10.505109s" />
+</par>
+
+<par id="par23">
+<text src="page3.xhtml#W23" />
+<audio src="audio/page3.m4a" clipBegin="10.505109s" clipEnd="10.725275s" />
+</par>
+
+<par id="par24">
+<text src="page3.xhtml#W24" />
+<audio src="audio/page3.m4a" clipBegin="10.725275s" clipEnd="11.020928s" />
+</par>
+
+<par id="par25">
+<text src="page3.xhtml#W25" />
+<audio src="audio/page3.m4a" clipBegin="10.989476s" clipEnd="11.171900s" />
+</par>
+
+<par id="par26">
+<text src="page3.xhtml#W26" />
+<audio src="audio/page3.m4a" clipBegin="11.171900s" clipEnd="11.423519s" />
+</par>
+
+<par id="par27">
+<text src="page3.xhtml#W27" />
+<audio src="audio/page3.m4a" clipBegin="11.423519s" clipEnd="11.679637s" />
+</par>
+
+<par id="par28">
+<text src="page3.xhtml#W28" />
+<audio src="audio/page3.m4a" clipBegin="11.679637s" clipEnd="11.851272s" />
+</par>
+
+<par id="par29">
+<text src="page3.xhtml#W29" />
+<audio src="audio/page3.m4a" clipBegin="11.851272s" clipEnd="12.071439s" />
+</par>
+
+<par id="par30">
+<text src="page3.xhtml#W30" />
+<audio src="audio/page3.m4a" clipBegin="12.071439s" clipEnd="12.285316s" />
+</par>
+
+<par id="par31">
+<text src="page3.xhtml#W31" />
+<audio src="audio/page3.m4a" clipBegin="12.285316s" clipEnd="12.700487s" />
+</par>
+
+<par id="par32">
+<text src="page3.xhtml#W32" />
+<audio src="audio/page3.m4a" clipBegin="12.700487s" clipEnd="13.040174s" />
+</par>
+
+<par id="par33">
+<text src="page3.xhtml#W33" />
+<audio src="audio/page3.m4a" clipBegin="13.040174s" clipEnd="14.090684s" />
+</par>
+
+<par id="par34">
+<text src="page3.xhtml#W34" />
+<audio src="audio/page3.m4a" clipBegin="14.090684s" clipEnd="14.549890s" />
+</par>
+
+<par id="par35">
+<text src="page3.xhtml#W35" />
+<audio src="audio/page3.m4a" clipBegin="14.549890s" clipEnd="14.902157s" />
+</par>
+
+<par id="par36">
+<text src="page3.xhtml#W36" />
+<audio src="audio/page3.m4a" clipBegin="14.902157s" clipEnd="15.380234s" />
+</par>
+
+<par id="par37">
+<text src="page3.xhtml#W37" />
+<audio src="audio/page3.m4a" clipBegin="15.380234s" clipEnd="15.600401s" />
+</par>
+
+<par id="par38">
+<text src="page3.xhtml#W38" />
+<audio src="audio/page3.m4a" clipBegin="15.600401s" clipEnd="16.109930s" />
+</par>
+
+<par id="par39">
+<text src="page3.xhtml#W39" />
+<audio src="audio/page3.m4a" clipBegin="16.109930s" clipEnd="16.286063s" />
+</par>
+
+<par id="par40">
+<text src="page3.xhtml#W40" />
+<audio src="audio/page3.m4a" clipBegin="16.286063s" clipEnd="16.789302s" />
+</par>
+
+<par id="par41">
+<text src="page3.xhtml#W41" />
+<audio src="audio/page3.m4a" clipBegin="16.789302s" clipEnd="16.971726s" />
+</par>
+
+<par id="par42">
+<text src="page3.xhtml#W42" />
+<audio src="audio/page3.m4a" clipBegin="16.971726s" clipEnd="17.776908s" />
+</par>
+
+<par id="par43">
+<text src="page3.xhtml#W43" />
+<audio src="audio/page3.m4a" clipBegin="17.776908s" clipEnd="18.299018s" />
+</par>
+
+<par id="par44">
+<text src="page3.xhtml#W44" />
+<audio src="audio/page3.m4a" clipBegin="18.299018s" clipEnd="19.129362s" />
+</par>
+
+<par id="par45">
+<text src="page3.xhtml#W45" />
+<audio src="audio/page3.m4a" clipBegin="19.129362s" clipEnd="19.664053s" />
+</par>
+
+<par id="par46">
+<text src="page3.xhtml#W46" />
+<audio src="audio/page3.m4a" clipBegin="19.664053s" clipEnd="19.884220s" />
+</par>
+
+<par id="par47">
+<text src="page3.xhtml#W47" />
+<audio src="audio/page3.m4a" clipBegin="19.884220s" clipEnd="20.330845s" />
+</par>
+
+<par id="par48">
+<text src="page3.xhtml#W48" />
+<audio src="audio/page3.m4a" clipBegin="20.330845s" clipEnd="20.488107s" />
+</par>
+
+<par id="par49">
+<text src="page3.xhtml#W49" />
+<audio src="audio/page3.m4a" clipBegin="20.488107s" clipEnd="20.790050s" />
+</par>
+
+<par id="par50">
+<text src="page3.xhtml#W50" />
+<audio src="audio/page3.m4a" clipBegin="20.790050s" clipEnd="21.702170s" />
+</par>
+
+<par id="par51">
+<text src="page3.xhtml#W51" />
+<audio src="audio/page3.m4a" clipBegin="21.702170s" clipEnd="21.878304s" />
+</par>
+
+<par id="par52">
+<text src="page3.xhtml#W52" />
+<audio src="audio/page3.m4a" clipBegin="21.878304s" clipEnd="22.293476s" />
+</par>
+
+<par id="par53">
+<text src="page3.xhtml#W53" />
+<audio src="audio/page3.m4a" clipBegin="22.293476s" clipEnd="22.570257s" />
+</par>
+
+<par id="par54">
+<text src="page3.xhtml#W54" />
+<audio src="audio/page3.m4a" clipBegin="22.570257s" clipEnd="22.922524s" />
+</par>
+
+<par id="par55">
+<text src="page3.xhtml#W55" />
+<audio src="audio/page3.m4a" clipBegin="22.922524s" clipEnd="23.199306s" />
+</par>
+
+<par id="par56">
+<text src="page3.xhtml#W56" />
+<audio src="audio/page3.m4a" clipBegin="23.199306s" clipEnd="23.501249s" />
+</par>
+
+<par id="par57">
+<text src="page3.xhtml#W57" />
+<audio src="audio/page3.m4a" clipBegin="23.501249s" clipEnd="23.614477s" />
+</par>
+
+<par id="par58">
+<text src="page3.xhtml#W58" />
+<audio src="audio/page3.m4a" clipBegin="23.614477s" clipEnd="23.891259s" />
+</par>
+
+<par id="par59">
+<text src="page3.xhtml#W59" />
+<audio src="audio/page3.m4a" clipBegin="23.891259s" clipEnd="24.929189s" />
+</par>
+
+<par id="par60">
+<text src="page3.xhtml#W60" />
+<audio src="audio/page3.m4a" clipBegin="24.929189s" clipEnd="25.872761s" />
+</par>
+
+<par id="par61">
+<text src="page3.xhtml#W61" />
+<audio src="audio/page3.m4a" clipBegin="25.872761s" clipEnd="26.099229s" />
+</par>
+
+<par id="par62">
+<text src="page3.xhtml#W62" />
+<audio src="audio/page3.m4a" clipBegin="26.099229s" clipEnd="26.961015s" />
+</par>
+
+<par id="par63">
+<text src="page3.xhtml#W63" />
+<audio src="audio/page3.m4a" clipBegin="26.961015s" clipEnd="27.300701s" />
+</par>
+
+<par id="par64">
+<text src="page3.xhtml#W64" />
+<audio src="audio/page3.m4a" clipBegin="27.300701s" clipEnd="27.659259s" />
+</par>
+
+<par id="par65">
+<text src="page3.xhtml#W65" />
+<audio src="audio/page3.m4a" clipBegin="27.659259s" clipEnd="28.124755s" />
+</par>
+
+<par id="par66">
+<text src="page3.xhtml#W66" />
+<audio src="audio/page3.m4a" clipBegin="28.124755s" clipEnd="28.514765s" />
+</par>
+
+<par id="par67">
+<text src="page3.xhtml#W67" />
+<audio src="audio/page3.m4a" clipBegin="28.514765s" clipEnd="28.816708s" />
+</par>
+
+<par id="par68">
+<text src="page3.xhtml#W68" />
+<audio src="audio/page3.m4a" clipBegin="28.816708s" clipEnd="28.942518s" />
+</par>
+
+<par id="par69">
+<text src="page3.xhtml#W69" />
+<audio src="audio/page3.m4a" clipBegin="28.942518s" clipEnd="29.766571s" />
+</par>
+</body>
+</smil>
